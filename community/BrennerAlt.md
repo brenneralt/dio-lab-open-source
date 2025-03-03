@@ -12,9 +12,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenneralt&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=brenneralt&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=20&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenneralt&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=%20&line=F12A37&point=91040D&color=E1E1E1" height="290" alt="activity-graph graph"  />
-</div>
+
 
 <div align="center">
   <h2>Programming Languages</h2>
